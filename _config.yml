@@ -1,0 +1,23 @@
+# Site settings
+title: Freiwillige Feuerwehr Tscherms EO
+email: ff.tscherms@lfvbz.org
+description: > # this means to ignore newlines until "baseurl:"
+  Freiwillige Feuerwehr Tscherms
+# baseurl: "stylish-portfolio-jekyll/" # the subpath of your site, e.g. /blog/
+url: "https://www.ff-tscherms.it/" # the base hostname & protocol for your site
+
+# User setting
+owner: Freiwillige Feuerwehr Tscherms
+email: ff.tscherms@lfvbz.org
+address:
+  - line: Gampenstraße 29/A
+  - line: 39010 Tscherms
+  # Feel free to add more lines here 
+telephone: 39 0473 564565
+mwstr: 91011500211
+
+
+# API settings
+google_api_key: AIzaSyDK88w-3428TamTIYA_5MPFtu7BcZYasX0 
+# Build settings
+markdown: kramdown
